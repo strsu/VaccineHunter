@@ -1,6 +1,31 @@
 # VaccineHunter
 유니티를 이용해 만든 게임 입니다.
 
+# #플레이 화면
+
+ 1. 각종 게임 화면
+ ![image](https://user-images.githubusercontent.com/25381921/175861436-2fc192bd-5045-4b5d-ab2f-02c9da2ea12e.png)   
+ 
+ 2. 맵 로딩 시 제공 정보    
+ ![image](https://user-images.githubusercontent.com/25381921/175861523-8ccebac1-137d-490c-9adc-97121ee3b7de.png)      
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/25381921/175862417-43d361a1-ef28-4461-9472-e57363b84b11.gif)
+
+ 맵 로딩을 한번에 이루어지지 않고, 로딩된 요소부터 하나하니씩 생성된다.   
+ 때문에 플레이어에게 하나하나 맵이 생성되는 모습을 보여주기 보단     
+ 생성되는 모습을 감추고, 그 동안 게임에 도움이 되는 정보를 보여주는 방식으로 코딩을 하였다.
+
+3. 상점 GIF   
+![상점](https://user-images.githubusercontent.com/25381921/175862465-0fed7219-61ef-417b-b8b9-c9d13cd7f5cf.gif)
+
+4. 스킬 GIF     
+![스킬](https://user-images.githubusercontent.com/25381921/175862467-9a39b2e9-7db2-49b6-af3c-f510d039fdd7.gif)     
+습득한 스킬만 사용할 수 있다
+
+5. 인벤토리 GIF      
+![인벤](https://user-images.githubusercontent.com/25381921/175862474-ddb67fff-d871-4bfe-9c83-16521c5138f6.gif)
+
+
+
 # #개발
 ![개발계획서_201630508_박영재001](https://user-images.githubusercontent.com/25381921/175860669-03374eab-d8b5-4e24-a7fc-5a7847be76bd.png)
 ![개발계획서_201630508_박영재002](https://user-images.githubusercontent.com/25381921/175860684-a72483a6-9e4e-4977-8ac6-3a9ffdc9777d.png)
