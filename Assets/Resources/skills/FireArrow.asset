@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56058490a590c4f41a5e43b7346035f1, type: 3}
+  m_Name: FireArrow
+  m_EditorClassIdentifier: 
+  category: Attack
+  learnDefault: 0
+  canMove: 0
+  icon: {fileID: 21300106, guid: b42be9ea69a6bab44bb12da7b08b33a4, type: 3}
+  relatedSkill: {fileID: 0}
+  toolTip: "name : {NAME}\ncategory : {CATEGORY}\nskill level : {LEVEL}\n\n\uBD88\uC758
+    \uD654\uC0B4\uC744 \uC3DC\uB2E4.\n\nnow skill point : {NOWSKILLPOINT}\nrequried
+    upgrade skill point : {REQUIREDSKILLPOINT}"
+  levels:
+  - castTime: 2
+    coolTime: 0
+    healthCost: 0
+    manaCost: 0
+    castMaxRange: 0
+    requiredSkillPoint: 1
+    finishedEffectPrefab: {fileID: 114945198856973272, guid: 07bc1d4109ed6f94ba78271a363b4403,
+      type: 2}
+    startedEffectPrefab: {fileID: 0}
+    buffTime: 0
+    buffStrength: 0
+    buffCritical: 0
+    healHealth: 0
+    healMana: 0
+    damage: 1000
+    castRange: 0
+    aoeRadius: 0

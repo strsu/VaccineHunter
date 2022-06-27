@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 06160e2113451c849bd7ca37389e1102
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 HeadNub
+    100006: Bip01 L Calf
+    100008: Bip01 L Clavicle
+    100010: Bip01 L Finger0
+    100012: Bip01 L Finger0Nub
+    100014: Bip01 L Foot
+    100016: Bip01 L Forearm
+    100018: Bip01 L Hand
+    100020: Bip01 L Thigh
+    100022: Bip01 L Toe0
+    100024: Bip01 L Toe0Nub
+    100026: Bip01 L UpperArm
+    100028: Bip01 Neck
+    100030: Bip01 Neck1
+    100032: Bip01 Pelvis
+    100034: Bip01 Ponytail1
+    100036: Bip01 Ponytail1Nub
+    100038: Bip01 R Calf
+    100040: Bip01 R Clavicle
+    100042: Bip01 R Finger0
+    100044: Bip01 R Finger0Nub
+    100046: Bip01 R Foot
+    100048: Bip01 R Forearm
+    100050: Bip01 R Hand
+    100052: Bip01 R Thigh
+    100054: Bip01 R Toe0
+    100056: Bip01 R Toe0Nub
+    100058: Bip01 R UpperArm
+    100060: Bip01 Spine
+    100062: Bip01 Spine1
+    100064: Bip01 Spine2
+    100066: Bip01 Tail
+    100068: Bip01 Tail1
+    100070: Bip01 Tail2
+    100072: Bip01 Tail3
+    100074: Bip01 TailNub
+    100076: Bone18
+    100078: Bone21
+    100080: Bone25
+    100082: Bone28
+    100084: //RootNode
+    100086: Dummy01
+    100088: Dummy02
+    100090: head_L
+    100092: head_L_jaw
+    100094: head_L_neck1
+    100096: head_L_neck2
+    100098: head_L_not used
+    100100: head_R
+    100102: head_R_jaw
+    100104: head_R_neck1
+    100106: head_R_neck2
+    100108: head_R_not used
+    100110: IK Chain01
+    100112: IK Chain02
+    100114: Mesh_Body
+    100116: Mesh_La_chain
+    100118: Mesh_Lc_chain
+    100120: Mesh_Lf_chain
+    100122: Mesh_Lfa
+    100124: Mesh_P_Back
+    100126: Mesh_Ra_chain
+    100128: Mesh_Rc_chain
+    100130: Mesh_Rf_chain
+    100132: Mesh_Rfa
+    100134: Mesh_S_Front
+    100136: Mon_14
+    100138: W_body_Back
+    100140: W_body_Front
+    100142: W_La_chain
+    100144: W_Lc_chain
+    100146: W_Lf_chain
+    100148: W_Lfa
+    100150: W_Ra_chain
+    100152: W_Rc_chain
+    100154: W_Rf_chain
+    100156: W_Rfa
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 HeadNub
+    400006: Bip01 L Calf
+    400008: Bip01 L Clavicle
+    400010: Bip01 L Finger0
+    400012: Bip01 L Finger0Nub
+    400014: Bip01 L Foot
+    400016: Bip01 L Forearm
+    400018: Bip01 L Hand
+    400020: Bip01 L Thigh
+    400022: Bip01 L Toe0
+    400024: Bip01 L Toe0Nub
+    400026: Bip01 L UpperArm
+    400028: Bip01 Neck
+    400030: Bip01 Neck1
+    400032: Bip01 Pelvis
+    400034: Bip01 Ponytail1
+    400036: Bip01 Ponytail1Nub
+    400038: Bip01 R Calf
+    400040: Bip01 R Clavicle
+    400042: Bip01 R Finger0
+    400044: Bip01 R Finger0Nub
+    400046: Bip01 R Foot
+    400048: Bip01 R Forearm
+    400050: Bip01 R Hand
+    400052: Bip01 R Thigh
+    400054: Bip01 R Toe0
+    400056: Bip01 R Toe0Nub
+    400058: Bip01 R UpperArm
+    400060: Bip01 Spine
+    400062: Bip01 Spine1
+    400064: Bip01 Spine2
+    400066: Bip01 Tail
+    400068: Bip01 Tail1
+    400070: Bip01 Tail2
+    400072: Bip01 Tail3
+    400074: Bip01 TailNub
+    400076: Bone18
+    400078: Bone21
+    400080: Bone25
+    400082: Bone28
+    400084: //RootNode
+    400086: Dummy01
+    400088: Dummy02
+    400090: head_L
+    400092: head_L_jaw
+    400094: head_L_neck1
+    400096: head_L_neck2
+    400098: head_L_not used
+    400100: head_R
+    400102: head_R_jaw
+    400104: head_R_neck1
+    400106: head_R_neck2
+    400108: head_R_not used
+    400110: IK Chain01
+    400112: IK Chain02
+    400114: Mesh_Body
+    400116: Mesh_La_chain
+    400118: Mesh_Lc_chain
+    400120: Mesh_Lf_chain
+    400122: Mesh_Lfa
+    400124: Mesh_P_Back
+    400126: Mesh_Ra_chain
+    400128: Mesh_Rc_chain
+    400130: Mesh_Rf_chain
+    400132: Mesh_Rfa
+    400134: Mesh_S_Front
+    400136: Mon_14
+    400138: W_body_Back
+    400140: W_body_Front
+    400142: W_La_chain
+    400144: W_Lc_chain
+    400146: W_Lf_chain
+    400148: W_Lfa
+    400150: W_Ra_chain
+    400152: W_Rc_chain
+    400154: W_Rf_chain
+    400156: W_Rfa
+    2300000: Mesh_La_chain
+    2300002: Mesh_Lc_chain
+    2300004: Mesh_Lf_chain
+    2300006: Mesh_Lfa
+    2300008: Mesh_P_Back
+    2300010: Mesh_Ra_chain
+    2300012: Mesh_Rc_chain
+    2300014: Mesh_Rf_chain
+    2300016: Mesh_Rfa
+    2300018: Mesh_S_Front
+    2300020: Mesh_Body
+    2300022: W_body_Back
+    2300024: W_body_Front
+    2300026: W_La_chain
+    2300028: W_Lc_chain
+    2300030: W_Lf_chain
+    2300032: W_Lfa
+    2300034: W_Ra_chain
+    2300036: W_Rc_chain
+    2300038: W_Rf_chain
+    2300040: W_Rfa
+    3300000: Mesh_La_chain
+    3300002: Mesh_Lc_chain
+    3300004: Mesh_Lf_chain
+    3300006: Mesh_Lfa
+    3300008: Mesh_P_Back
+    3300010: Mesh_Ra_chain
+    3300012: Mesh_Rc_chain
+    3300014: Mesh_Rf_chain
+    3300016: Mesh_Rfa
+    3300018: Mesh_S_Front
+    3300020: Mesh_Body
+    3300022: W_body_Back
+    3300024: W_body_Front
+    3300026: W_La_chain
+    3300028: W_Lc_chain
+    3300030: W_Lf_chain
+    3300032: W_Lfa
+    3300034: W_Ra_chain
+    3300036: W_Rc_chain
+    3300038: W_Rf_chain
+    3300040: W_Rfa
+    4300000: Mesh_Body
+    4300002: Mesh_La_chain
+    4300004: Mesh_Lfa
+    4300006: Mesh_Ra_chain
+    4300008: Mesh_Rfa
+    4300010: Mesh_S_Front
+    4300012: Mesh_Lf_chain
+    4300014: Mesh_Lc_chain
+    4300016: Mesh_Rf_chain
+    4300018: Mesh_Rc_chain
+    4300020: Mesh_P_Back
+    4300022: Mon_14
+    4300024: W_La_chain
+    4300026: W_Lfa
+    4300028: W_Ra_chain
+    4300030: W_Rfa
+    4300032: W_body_Front
+    4300034: W_Lf_chain
+    4300036: W_Lc_chain
+    4300038: W_Rf_chain
+    4300040: W_Rc_chain
+    4300042: W_body_Back
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mesh_Body
+    13700002: Mon_14
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
